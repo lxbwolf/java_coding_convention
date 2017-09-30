@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [编程规约](bian-cheng-gui-yue.md)
   * [命名风格](bian-cheng-gui-yue/ming-ming-feng-ge.md)
-  * 常量定义
+  * [常量定义](bian-cheng-gui-yue/chang-liang-ding-yi.md)
   * 代码格式
   * OOP规约
   * 集合处理
